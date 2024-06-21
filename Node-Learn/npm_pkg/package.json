@@ -1,0 +1,16 @@
+{
+  "name": "mformula",
+  "version": "1.2.0",
+  "description": "A simple packege which greets the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math formula",
+    "math"
+  ],
+
+  "author": "sonu kumar",
+  "license": "ISC"
+}
